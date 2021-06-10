@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ignacio/Documents/github/TareaExtra_DatosII_3_4/EC4/sha1.cpp
+cstring
+-
+cassert
+-
+iostream
+-
+sha1.h
+/home/ignacio/Documents/github/TareaExtra_DatosII_3_4/EC4/sha1.h
+sha1_loc.h
+/home/ignacio/Documents/github/TareaExtra_DatosII_3_4/EC4/sha1_loc.h
+
+/home/ignacio/Documents/github/TareaExtra_DatosII_3_4/EC4/sha1.h
+
+/home/ignacio/Documents/github/TareaExtra_DatosII_3_4/EC4/sha1_loc.h
+
